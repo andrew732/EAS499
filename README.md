@@ -31,6 +31,6 @@ API Calls for poker_bot.py
 
 Sources
 -----
-(1) Julianandrews. (2015, November 29). pyeval7. Retrieved from https://github.com/julianandrews/pyeval7
-(2) Upswing Poker. (n.d.). Preflop Guide: Raising First In. Preflop Guide: Raising First In. Retrieved from https://upswingpoker.com/wp-content/uploads/2018/02/Preflop-Guide-for-RFI-v21-1.pdf
+(1) Julianandrews. (2015, November 29). pyeval7. Retrieved from https://github.com/julianandrews/pyeval7  
+(2) Upswing Poker. (n.d.). Preflop Guide: Raising First In. Preflop Guide: Raising First In. Retrieved from https://upswingpoker.com/wp-content/uploads/2018/02/Preflop-Guide-for-RFI-v21-1.pdf  
 (3) Pierre. (2019, July 30). Pluribus Poker Preflop Defense Detailed part 1 of 2. Retrieved from https://pluribus-poker-ai.com/2019/08/05/pluribus-poker-preflop-defense-detailed/
